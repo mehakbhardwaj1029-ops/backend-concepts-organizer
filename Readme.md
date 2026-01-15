@@ -1,4 +1,3 @@
-# 🧠 Tech Journal – Code & Docs Manager
 
 A  **personal tech journaling platform** where you can create topics, write code, and maintain clean documentation — all in one place. This project is designed for developers who want to **document their learning journey**, avoid relearning concepts from scratch, and build a habit of structured thinking.
 
@@ -17,7 +16,7 @@ While learning new technologies, we often move fast and forget details later. Th
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
