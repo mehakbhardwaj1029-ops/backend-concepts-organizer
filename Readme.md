@@ -34,7 +34,7 @@ While learning new technologies, we often move fast and forget details later. Th
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 ```sql
 CREATE TABLE topic (
